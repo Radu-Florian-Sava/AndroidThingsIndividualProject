@@ -67,4 +67,4 @@ To run the app you just have to upload it using the button in the top left corne
 
 ## Tutorial
 
-![Tutorial](https://youtu.be/YJ5glrgDvlM)
+[![Tutorial](https://img.youtube.com/vi/YJ5glrgDvlM/hqdefault.jpg)](https://youtu.be/YJ5glrgDvlM)
