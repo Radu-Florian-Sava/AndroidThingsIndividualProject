@@ -1,0 +1,15 @@
+HARDWARE:
+Arduino nano (V3 ATmega328p)                                               - https://ardushop.ro/ro/electronica/31-placa-de-dezvoltare-nano-v3-atmega328.html
+LCD 1602 screen (02 => 2 lines, 16 => 16 characters per row) + I2C adapter - https://ardushop.ro/ro/home/1893-lcd-1602-verde-iic.html?search_query=lcd&results=54
+Ultrasonic sensor module (HC-SR04)                                         - https://ardushop.ro/ro/home/47-modul-senzor-ultrasonic-detector-distanta.html?search_query=distanta&results=80
+8 jumper wires
+Mini USB cable in order to load the code and power arduino nano
+
+SOFTWARE :
+
+I2C LCD library - https://github.com/johnrickman/LiquidCrystal_I2C
+
+TECHNICAL INFORMATION:
+
+Distance sensor - https://linuxhint.com/hc-sr04-ultrasonic-sensor-arduino-nano/
+I2C display     - https://www.youtube.com/watch?v=wKuTvRgGuVU
